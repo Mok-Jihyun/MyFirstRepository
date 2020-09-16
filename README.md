@@ -1,11 +1,8 @@
-# MyFirstRepository
+# 19173064 목지현
 
-## 중간제목
-   [Mok-Jihyun](https://github.com/Mok-Jihyun)
-### 작은제목
-    1. 첫번째
-    2. 두번째
-    3. 세번째
+## 1주차 과제
+
+## 2주차 과제
 
 
-Hello my name is MokJihyun
+## 3주차 과제
