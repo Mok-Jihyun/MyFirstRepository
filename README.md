@@ -41,3 +41,8 @@
 ![19173064목지현 2](https://user-images.githubusercontent.com/71024951/98814671-5881ce00-2469-11eb-9904-dc9bc752f033.PNG)
 ![19173064목지현 3](https://user-images.githubusercontent.com/71024951/98814673-5a4b9180-2469-11eb-8092-92a588acc215.PNG)
 ![19173064목지현 4](https://user-images.githubusercontent.com/71024951/98814676-5b7cbe80-2469-11eb-8769-b5173a214d6c.PNG)
+
+
+## 12주차 과제
+![19173064목지현 1](https://user-images.githubusercontent.com/71024951/99667265-7e355580-2aaf-11eb-93e0-2be90f70a4d5.PNG)
+![19173064목지현 2](https://user-images.githubusercontent.com/71024951/99667281-87262700-2aaf-11eb-94e3-a899cc76b3b4.PNG)
