@@ -46,3 +46,8 @@
 ## 12주차 과제
 ![19173064목지현 1](https://user-images.githubusercontent.com/71024951/99667265-7e355580-2aaf-11eb-93e0-2be90f70a4d5.PNG)
 ![19173064목지현 2](https://user-images.githubusercontent.com/71024951/99667281-87262700-2aaf-11eb-94e3-a899cc76b3b4.PNG)
+
+
+## 기말고사 대체 과제
+![19173064_목지현_로그인페이지](https://user-images.githubusercontent.com/71024951/101259219-ea2fe300-376a-11eb-8301-1f3daa6c9d47.PNG)
+![19173064_목지현_메인페이지](https://user-images.githubusercontent.com/71024951/101259221-edc36a00-376a-11eb-8b7e-5a3287a5c2a9.PNG)
